@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Bottomline Demo
-  description: An example deployment of a Backstage application.
+  description: An example deployment of a Backstage application. Mohan desc.
   annotations:
     github.com/project-slug: backstage/demo
     argocd/app-name: gde-pdt-data-apicatalog-dev
