@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Bottomline Demo
+  name: Bottomline_Demo
   description: An example deployment of a Backstage application. Mohan desc.
   annotations:
     github.com/project-slug: backstage/demo
